@@ -1,3 +1,9 @@
 :root {
   --header-bg-classic: #553688;
 }
+#jenkins-head-icon {
+  content: url("https://github.com/galaxydevnetwork/cdn/blob/main/img/GalaxyDevNetwork%20Logo.png?raw=true");
+}
+#jenkins-name-icon {
+  display: none;
+}
